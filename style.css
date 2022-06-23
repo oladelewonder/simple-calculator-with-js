@@ -2,3 +2,20 @@ html, body {
   height: 100%;
   width: 100%;
 }
+#result{
+    height: 120px;
+}
+#history{
+    
+    height: 20px;
+    margin: 0 20px;
+    padding-top: 20px;
+    font-size: 15px;
+    
+}
+#output{
+    
+    height: 60px;
+    margin: 10px 20px;
+    font-size: 30px;
+}
